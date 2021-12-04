@@ -1,0 +1,23 @@
+﻿,feature,coefs
+18,Gender_tgt,-4.863261836
+4,Ease of Online booking,-0.159103116
+3,Departure/Arrival time convenient,-0.133895242
+6,Food and drink,-0.0242451
+17,Arrival Delay in Minutes,-0.008341898
+0,Age,-0.007612996
+1,Flight Distance,1.67919E-05
+16,Departure Delay in Minutes,0.003722643
+5,Gate location,0.033853491
+8,Seat comfort,0.064887048
+9,Inflight entertainment,0.076663903
+14,Inflight service,0.111480568
+12,Baggage handling,0.138005035
+15,Cleanliness,0.216921157
+11,Leg room service,0.249976227
+10,On-board service,0.290579712
+13,Checkin service,0.323639195
+2,Inflight wifi service,0.397824673
+7,Online boarding,0.606845874
+21,Class_tgt,1.440591749
+20,Type of Travel_tgt,5.407505363
+19,Customer Type_tgt,7.615297194
